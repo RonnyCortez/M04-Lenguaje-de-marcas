@@ -1,0 +1,51 @@
+h1{
+    background-color: black;
+    padding: 0.6em;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+h2{
+    display: inline-block;
+    width: 48%;
+}
+
+.image{
+    background-color: lightgray;
+    display: inline-block;
+    width: 200px;
+    height: 200px   ;
+
+}
+
+li{
+    display: inline-block;
+    width: 23%;
+}
+
+#subtitles{
+    background-color: gray;
+}
+
+nav{
+    margin-top: 10px;
+    background-color: lightgray;
+}
+
+article{
+    display: flex;
+    flex-direction: row;
+}
+
+p{
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+    padding-left: 1em;
+}
+
+footer{
+    background-color: lightgray;
+    padding: 0.6em;
+    margin-top: 10px;
+}
